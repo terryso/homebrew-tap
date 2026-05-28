@@ -1,9 +1,9 @@
 class Axion < Formula
   desc "macOS desktop automation CLI powered by AI"
   homepage "https://github.com/terryso/axion"
-  version "0.9.0"
-  url "https://github.com/terryso/axion/releases/download/v0.9.0/axion-0.9.0.tar.gz"
-  sha256 "fd72368c9ba9fa207186acd3b72e7cc69d4e2cb2dd3c70cf042e898fd9b1690b"
+  version "0.9.1"
+  url "https://github.com/terryso/axion/releases/download/v0.9.1/axion-0.9.1.tar.gz"
+  sha256 "c1335e2ac9b18b8dba45e061f073b38b52124a4606172117f40a85efcec1ac99"
 
   depends_on :macos => :sonoma
 
